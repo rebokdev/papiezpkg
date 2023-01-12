@@ -1,4 +1,4 @@
-# papież-pkg
+# papieżpkg
 a simple meme package menager
 
 to install
