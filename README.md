@@ -33,6 +33,9 @@ then it will delate /kremowkas and /home/youruser/.local/share/applications
 versions:
 
 0.1[released] install,update and uninstall
+
+2023 update: next update maybe in 2024 cause i'm working on other prpjects now for ex. fenix
+
 0.2 web update
 
 0.3 handler update + patched
